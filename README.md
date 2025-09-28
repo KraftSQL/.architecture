@@ -1,8 +1,9 @@
-# KraftSQL Architecture Documentation
+# KraftSQL Documentation
 
-This repository documents the architecture of **Kraft**SQL.
+This repository holds the documentation for KraftSQL.
 
-## Architecture Decision Records (ADRs)
-1. [Extra DSL layer on top of a precise and explicit SQL model](adr/MODEL_PLUS_DSL.adr.md)
-2. [Acceptance of code smell "Simulated Polymorphism" in SimulatorSession](adr/SIMULATED_POLYMORPHISM_IN_SIMULATOR.adr.md)
-3. [Content, structure and tooling of the documentaion](adr/DOCUMENTATION.adr.md)
+## User Guide
+The main documentation for users is written in the wiki: [https://github.com/KraftSQL/documentation/wiki](https://github.com/KraftSQL/documentation/wiki).
+
+## Architecture Decision Records
+Documentation of architectural decisions in the form of ADRs is stored in [adr/](adr).
